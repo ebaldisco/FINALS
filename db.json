@@ -1,22 +1,25 @@
 {
   "surveys": [
     {
-      "name": "Diccion",
-      "color": "blue",
+      "name": "Shielas",
+      "sexo": "Bisexual",
+      "age": "18-24",
       "movies": [
-        "harry potter"
+        "Friend",
+        "One Night Stand"
       ],
-      "gender": "male",
-      "id": 1
-    },
-    {
-      "name": "Diccion",
-      "color": "blue",
-      "movies": [
-        "harry potter"
-      ],
-      "gender": "male",
-      "id": 4
+      "gender": "Female",
+      "ethnicity": "Asian",
+      "education": "Some College/University",
+      "status": "Employed Part-Time",
+      "income": "$20,000 - $30,000",
+      "sexex": "Yes",
+      "sexfreq": 2,
+      "sexact": "No",
+      "sexmos": 2,
+      "sexave": "Once or twice a month",
+      "comment": "ssssssssssssssssssssssssss",
+      "id": 5
     }
   ]
 }
